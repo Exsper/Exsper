@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=exsper&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exsper)
+
 ![Profile views](https://gpvc.arturio.dev/exsper)
